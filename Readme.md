@@ -9,3 +9,8 @@ edit
 git add .   Readme.md يا . يا نفس الاسم
 git commit -m "تم التعديل تفاصيل التعديل " 
 git push
+
+git status
+
+git pull
+
