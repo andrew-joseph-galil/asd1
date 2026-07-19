@@ -14,3 +14,7 @@ git status
 
 git pull
 
+git log مين عدل على  repo
+
+q للقفل 
+ 
